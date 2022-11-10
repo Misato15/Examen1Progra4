@@ -1,0 +1,15 @@
+{
+  "name": "examen-pimer-parcial",
+  "version": "0.0.1",
+  "description": "Examen Progra IV primer parcial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "examen",
+    "express"
+  ],
+  "author": "Salvador A. Chinchilla",
+  "license": "MIT"
+}
